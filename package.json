@@ -13,11 +13,16 @@
     "@trpc/client": "^10.43.3",
     "@trpc/react-query": "^10.43.3",
     "@trpc/server": "^10.43.3",
+    "better-sqlite3": "^9.1.1",
+    "drizzle-kit": "^0.20.1",
+    "drizzle-orm": "^0.29.0",
     "next": "14.0.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
